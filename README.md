@@ -13,7 +13,7 @@ Additionally, there is a sample `terraform.tfvars` file provided which should be
 ## Commands to run:
 
 Init:
-* `terraform init -backend-config=bucket=<name>-<surname>-devops-core-8`
+* `terraform init -backend-config=bucket=<name>-<surname>-panda-devops-core-8`
 
 Check what will be done:
 * `terraform plan`
